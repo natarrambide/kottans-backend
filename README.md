@@ -9,3 +9,8 @@ In Linux Survival course module-1 and module-2 was not hard for me, I useed linu
 
 ## Git Collaboration
 ![module 5](task_git_collaboration/git.jpg)
+
+## NodeJS Basics 1
+![module 5](node_basic_1/learnyounode.png)
+![module 5](node_basic_1/functional-javascript-workshop.png)
+![module 5](node_basic_1/stream-adventure.png)
